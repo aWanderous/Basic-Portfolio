@@ -1,0 +1,20 @@
+
+.Name {
+    position: relative;
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    background-color: #4aaaa5;
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    padding: 20px 20px 0px 20px;
+    left: 200px;
+    border-block-color: #cccccc;
+}
+
+.Space {
+    background-color: #dddddd;
+
+}
