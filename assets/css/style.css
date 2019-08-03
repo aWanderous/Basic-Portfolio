@@ -20,7 +20,6 @@ body {
 nav {
     float: right;
     text-align: center;
-    display: inline;
 }
 
 .About, .Portfolio, .Content {
