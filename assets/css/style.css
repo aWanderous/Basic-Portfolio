@@ -1,6 +1,10 @@
 
+body {
+    margin:auto;
+    width: 960px;
+}
 .Name {
-    position: relative;
+    float:left;
     font-weight: bold;
     font-size: 20px;
     color: #ffffff;
@@ -10,11 +14,19 @@
     width: 100px;
     text-align: center;
     padding: 20px 20px 0px 20px;
-    left: 200px;
-    border-block-color: #cccccc;
+    border: #cccccc;
+}
+
+nav {
+    float: right;
+    text-align: center;
 }
 
 .Space {
     background-color: #dddddd;
-
+    clear: both;
+    position: relative;
+    box-sizing: border-box; 
+    top: 96px;
+    width: 960px;
 }
